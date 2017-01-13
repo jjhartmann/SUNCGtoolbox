@@ -83,9 +83,11 @@
   <ItemGroup>
     <ClCompile Include="R2Texture.cpp" />
     <ClCompile Include="R2Viewport.cpp" />
+    <ClCompile Include="R3AreaLight.cpp" />
     <ClCompile Include="R3Brdf.cpp" />
     <ClCompile Include="R3Camera.cpp" />
     <ClCompile Include="R3DirectionalLight.cpp" />
+    <ClCompile Include="R3Frustum.cpp" />
     <ClCompile Include="R3Graphics.cpp" />
     <ClCompile Include="R3Light.cpp" />
     <ClCompile Include="R3Material.cpp" />
@@ -101,9 +103,11 @@
   <ItemGroup>
     <ClInclude Include="R2Texture.h" />
     <ClInclude Include="R2Viewport.h" />
+    <ClInclude Include="R3AreaLight.h" />
     <ClInclude Include="R3Brdf.h" />
     <ClInclude Include="R3Camera.h" />
     <ClInclude Include="R3DirectionalLight.h" />
+    <ClInclude Include="R3Frustum.h" />
     <ClInclude Include="R3Graphics.h" />
     <ClInclude Include="R3Light.h" />
     <ClInclude Include="R3Material.h" />
@@ -115,6 +119,7 @@
     <ClInclude Include="R3SpotLight.h" />
     <ClInclude Include="p5d.h" />
     <ClInclude Include="json.h" />
+    <ClInclude Include="R3Viewer.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

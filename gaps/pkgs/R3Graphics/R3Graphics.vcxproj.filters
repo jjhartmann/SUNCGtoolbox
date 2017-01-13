@@ -59,6 +59,12 @@
     <ClCompile Include="json.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="R3AreaLight.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="R3Frustum.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="R2Texture.h">
@@ -107,6 +113,15 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="json.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="R3AreaLight.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="R3Frustum.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="R3Viewer.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
