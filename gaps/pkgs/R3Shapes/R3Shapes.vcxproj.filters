@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
     <Filter Include="Source Files">
@@ -11,133 +11,136 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="ply.C">
+    <ClCompile Include="ply.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="R3Affine.C">
+    <ClCompile Include="R3Affine.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="R3Align.C">
+    <ClCompile Include="R3Align.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="R3Base.C">
+    <ClCompile Include="R3Base.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="R3Box.C">
+    <ClCompile Include="R3Box.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="R3Circle.C">
+    <ClCompile Include="R3Circle.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="R3Cone.C">
+    <ClCompile Include="R3Cone.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="R3Cont.C">
+    <ClCompile Include="R3Cont.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="R3Crdsys.C">
+    <ClCompile Include="R3Crdsys.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="R3Cylinder.C">
+    <ClCompile Include="R3Cylinder.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="R3Dist.C">
+    <ClCompile Include="R3Dist.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="R3Draw.C">
+    <ClCompile Include="R3Draw.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="R3Ellipse.C">
+    <ClCompile Include="R3Ellipse.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="R3Ellipsoid.C">
+    <ClCompile Include="R3Ellipsoid.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="R3Grid.C">
+    <ClCompile Include="R3PlanarGrid.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="R3Halfspace.C">
+    <ClCompile Include="R3Grid.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="R3Isect.C">
+    <ClCompile Include="R3Halfspace.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="R3Kdtree.C">
+    <ClCompile Include="R3Isect.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="R3Line.C">
+    <ClCompile Include="R3Kdtree.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="R3Mesh.C">
+    <ClCompile Include="R3Line.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="R3MeshSearchTree.C">
+    <ClCompile Include="R3Mesh.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="R3MeshProperty.C">
+    <ClCompile Include="R3MeshSearchTree.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="R3MeshPropertySet.C">
+    <ClCompile Include="R3MeshProperty.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="R3OrientedBox.C">
+    <ClCompile Include="R3MeshPropertySet.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="R3Parall.C">
+    <ClCompile Include="R3OrientedBox.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="R3Perp.C">
+    <ClCompile Include="R3Parall.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="R3Plane.C">
+    <ClCompile Include="R3Perp.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="R3Point.C">
+    <ClCompile Include="R3Plane.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="R3Quaternion.C">
+    <ClCompile Include="R3Point.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="R3Ray.C">
+    <ClCompile Include="R3Quaternion.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="R3Relate.C">
+    <ClCompile Include="R3Ray.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="R3Shape.C">
+    <ClCompile Include="R3Relate.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="R3Shapes.C">
+    <ClCompile Include="R3Shape.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="R3Solid.C">
+    <ClCompile Include="R3Shapes.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="R3Span.C">
+    <ClCompile Include="R3Solid.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="R3Sphere.C">
+    <ClCompile Include="R3Span.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="R3Surface.C">
+    <ClCompile Include="R3Sphere.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="R3Triad.C">
+    <ClCompile Include="R3Surface.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="R3Triangle.C">
+    <ClCompile Include="R3Triad.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="R3TriangleArray.C">
+    <ClCompile Include="R3Triangle.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="R3Vector.C">
+    <ClCompile Include="R3TriangleArray.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="R3Xform.C">
+    <ClCompile Include="R3Vector.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="R4Matrix.C">
+    <ClCompile Include="R3Xform.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="R4Matrix.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
@@ -269,6 +272,9 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="R4Matrix.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="R3PlanarGrid.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

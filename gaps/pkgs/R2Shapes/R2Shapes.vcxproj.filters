@@ -11,97 +11,97 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="R2Affine.C">
+    <ClCompile Include="R2Affine.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="R2Align.C">
+    <ClCompile Include="R2Align.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="R2Arc.C">
+    <ClCompile Include="R2Arc.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="R2Box.C">
+    <ClCompile Include="R2Box.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="R2Circle.C">
+    <ClCompile Include="R2Circle.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="R2Cont.C">
+    <ClCompile Include="R2Cont.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="R2Crdsys.C">
+    <ClCompile Include="R2Crdsys.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="R2Curve.C">
+    <ClCompile Include="R2Curve.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="R2Diad.C">
+    <ClCompile Include="R2Diad.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="R2Dist.C">
+    <ClCompile Include="R2Dist.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="R2Draw.C">
+    <ClCompile Include="R2Draw.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="R2Grid.C">
+    <ClCompile Include="R2Grid.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="R2Halfspace.C">
+    <ClCompile Include="R2Halfspace.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="R2Image.C">
+    <ClCompile Include="R2Image.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="R2Io.C">
+    <ClCompile Include="R2Io.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="R2Isect.C">
+    <ClCompile Include="R2Isect.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="R2Kdtree.C">
+    <ClCompile Include="R2Kdtree.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="R2Line.C">
+    <ClCompile Include="R2Line.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="R2Parall.C">
+    <ClCompile Include="R2Parall.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="R2Perp.C">
+    <ClCompile Include="R2Perp.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="R2Point.C">
+    <ClCompile Include="R2Point.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="R2Polygon.C">
+    <ClCompile Include="R2Polygon.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="R2Ray.C">
+    <ClCompile Include="R2Ray.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="R2Relate.C">
+    <ClCompile Include="R2Relate.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="R2Shape.C">
+    <ClCompile Include="R2Shape.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="R2Shapes.C">
+    <ClCompile Include="R2Shapes.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="R2Solid.C">
+    <ClCompile Include="R2Solid.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="R2Span.C">
+    <ClCompile Include="R2Span.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="R2Vector.C">
+    <ClCompile Include="R2Vector.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="R2Xform.C">
+    <ClCompile Include="R2Xform.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="R3Matrix.C">
+    <ClCompile Include="R3Matrix.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

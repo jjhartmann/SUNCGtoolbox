@@ -11,49 +11,49 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="RNArray.C">
+    <ClCompile Include="RNArray.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="RNBase.C">
+    <ClCompile Include="RNBase.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="RNBasics.C">
+    <ClCompile Include="RNBasics.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="RNError.C">
+    <ClCompile Include="RNError.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="RNFlags.C">
+    <ClCompile Include="RNFlags.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="RNGrfx.C">
+    <ClCompile Include="RNGrfx.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="RNHeap.C">
+    <ClCompile Include="RNHeap.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="RNIntval.C">
+    <ClCompile Include="RNIntval.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="RNMem.C">
+    <ClCompile Include="RNMem.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="RNQueue.C">
+    <ClCompile Include="RNQueue.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="RNRgb.C">
+    <ClCompile Include="RNRgb.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="RNScalar.C">
+    <ClCompile Include="RNScalar.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="RNSvd.C">
+    <ClCompile Include="RNSvd.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="RNTime.C">
+    <ClCompile Include="RNTime.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="RNType.C">
+    <ClCompile Include="RNType.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
