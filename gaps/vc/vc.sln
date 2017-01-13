@@ -1,6 +1,8 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2010
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "pkgs", "pkgs", "{43F04A45-4876-458A-A344-CB307A113497}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "apps", "apps", "{9D20F0FB-04EA-4709-9165-267047ABB8D8}"
@@ -97,6 +99,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "grd2pts", "..\apps\grd2pts\
 		{D7106239-8D92-452E-A278-3AC3F4027E66} = {D7106239-8D92-452E-A278-3AC3F4027E66}
 	EndProjectSection
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "scnview", "..\apps\scnview\scnview.vcxproj", "{E29EF3B6-8BB6-4318-95A1-7478AA69A19A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -187,6 +191,10 @@ Global
 		{399693B1-ADFD-48AF-B01C-E3BB6472B27B}.Debug|Win32.Build.0 = Debug|Win32
 		{399693B1-ADFD-48AF-B01C-E3BB6472B27B}.Release|Win32.ActiveCfg = Release|Win32
 		{399693B1-ADFD-48AF-B01C-E3BB6472B27B}.Release|Win32.Build.0 = Release|Win32
+		{E29EF3B6-8BB6-4318-95A1-7478AA69A19A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E29EF3B6-8BB6-4318-95A1-7478AA69A19A}.Debug|Win32.Build.0 = Debug|Win32
+		{E29EF3B6-8BB6-4318-95A1-7478AA69A19A}.Release|Win32.ActiveCfg = Release|Win32
+		{E29EF3B6-8BB6-4318-95A1-7478AA69A19A}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -213,5 +221,6 @@ Global
 		{A15EAEBA-DA04-4A18-A886-8CCD42CD7DC9} = {9D20F0FB-04EA-4709-9165-267047ABB8D8}
 		{BF250980-EF7E-488D-8238-984624942D85} = {9D20F0FB-04EA-4709-9165-267047ABB8D8}
 		{399693B1-ADFD-48AF-B01C-E3BB6472B27B} = {9D20F0FB-04EA-4709-9165-267047ABB8D8}
+		{E29EF3B6-8BB6-4318-95A1-7478AA69A19A} = {9D20F0FB-04EA-4709-9165-267047ABB8D8}
 	EndGlobalSection
 EndGlobal

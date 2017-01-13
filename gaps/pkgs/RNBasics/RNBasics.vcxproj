@@ -14,6 +14,7 @@
     <ProjectGuid>{0E7497C1-A630-420B-BBD6-BA08E27069C7}</ProjectGuid>
     <RootNamespace>RNBasics</RootNamespace>
     <Keyword>Win32Proj</Keyword>
+    <WindowsTargetPlatformVersion>10.0.14393.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
@@ -84,10 +85,12 @@
     <ClCompile Include="RNBase.cpp" />
     <ClCompile Include="RNBasics.cpp" />
     <ClCompile Include="RNError.cpp" />
+    <ClCompile Include="RNFile.cpp" />
     <ClCompile Include="RNFlags.cpp" />
     <ClCompile Include="RNGrfx.cpp" />
     <ClCompile Include="RNHeap.cpp" />
     <ClCompile Include="RNIntval.cpp" />
+    <ClCompile Include="RNMap.cpp" />
     <ClCompile Include="RNMem.cpp" />
     <ClCompile Include="RNQueue.cpp" />
     <ClCompile Include="RNRgb.cpp" />
@@ -103,10 +106,12 @@
     <ClInclude Include="RNCompat.h" />
     <ClInclude Include="RNError.h" />
     <ClInclude Include="RNExtern.h" />
+    <ClInclude Include="RNFile.h" />
     <ClInclude Include="RNFlags.h" />
     <ClInclude Include="RNGrfx.h" />
     <ClInclude Include="RNHeap.h" />
     <ClInclude Include="RNIntval.h" />
+    <ClInclude Include="RNMap.h" />
     <ClInclude Include="RNMem.h" />
     <ClInclude Include="RNQueue.h" />
     <ClInclude Include="RNRgb.h" />
@@ -118,6 +123,7 @@
   <ItemGroup>
     <None Include="RNArray.I" />
     <None Include="RNGrfx.I" />
+    <None Include="RNMap.I" />
     <None Include="RNQueue.I" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

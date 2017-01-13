@@ -56,6 +56,12 @@
     <ClCompile Include="RNType.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="RNFile.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="RNMap.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="RNArray.h">
@@ -109,6 +115,12 @@
     <ClInclude Include="RNType.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="RNFile.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="RNMap.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="RNArray.I">
@@ -118,6 +130,9 @@
       <Filter>Header Files</Filter>
     </None>
     <None Include="RNQueue.I">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="RNMap.I">
       <Filter>Header Files</Filter>
     </None>
   </ItemGroup>
